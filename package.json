@@ -1,0 +1,28 @@
+{
+  "name": "wm500v5",
+  "version": "1.0.0",
+  "description": "Node app to communicate with wm500v5 terminals via usb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgr/WM500V5.git"
+  },
+  "keywords": [
+    "node",
+    "wm500v5",
+    "usb"
+  ],
+  "author": "'Rafael <'rafa@myariadna.com'>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgr/WM500V5/issues"
+  },
+  "homepage": "https://github.com/rafaelgr/WM500V5#readme",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "express": "^4.13.3"
+  }
+}
