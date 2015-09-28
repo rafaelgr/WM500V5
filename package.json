@@ -15,7 +15,7 @@
     "wm500v5",
     "usb"
   ],
-  "author": "'Rafael <'rafa@myariadna.com'>",
+  "author": "'Rafael Garcia <'rafa@myariadna.com'>",
   "license": "CC-BY-4.0",
   "bugs": {
     "url": "https://github.com/rafaelgr/WM500V5/issues"
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/rafaelgr/WM500V5#readme",
   "dependencies": {
     "body-parser": "^1.14.0",
+    "edge": "^4.0.0",
     "express": "^4.13.3"
   }
 }
