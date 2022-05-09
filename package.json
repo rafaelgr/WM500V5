@@ -23,7 +23,7 @@
   "homepage": "https://github.com/rafaelgr/WM500V5#readme",
   "dependencies": {
     "body-parser": "^1.14.0",
-    "edge": "^4.0.0",
+    "edge": "^7.10.1",
     "express": "^4.13.3"
   }
 }
